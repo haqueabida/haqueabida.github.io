@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['Abida Haque', 'ahaque3@ncsu.edu', 'message']
+  requiredFields         : ['Abida Haque', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -84,14 +84,14 @@ author:
   avatar           : "profile.png"
   bio              : "Abida is somebody"
   location         : "Raleigh, NC"
-  employer         :
-  pubmed           : 
-  googlescholar    : 
   email            : "ahaque3@ncsu.edu"
+  employer         :
+  googlescholar    : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
+  pubmed           : 
   dribbble         :
   flickr           :
   facebook         :
