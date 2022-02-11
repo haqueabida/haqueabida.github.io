@@ -6,10 +6,7 @@ excerpt: 'In this paper, we provide the first definition of t-out-of-N threshold
 date: 2020-02-07
 venue: 'PKC'
 paperurl: 'https://eprint.iacr.org/2020/135.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Haque, Abida and Scafuro, Alessandra. &quot;Logarithmic-size (linkable) threshold ring signatures in the plain model.&quot; PKC. 2020.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://eprint.iacr.org/2020/135.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
