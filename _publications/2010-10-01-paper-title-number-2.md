@@ -10,10 +10,9 @@ However, both the evaluator and the generator
 must pay in computation and perform at least factor   $\log b$ {\em extra} work as compared to standard GC evaluation. '
 date: 2022-05-30
 venue: 'Eurocrypt'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: ''
 citation: 'Abida Haque, David Heath, Vladimir Kolesnikov, Rafail Ostrovsky, Akash Shah. Garbled Circuits With Sublinear Evaluator, Eurocrypt 2022.'
 ---
 
 Sublinear garbled circuits with an application to PIR.
 
-[Download paper here](to be updated)
