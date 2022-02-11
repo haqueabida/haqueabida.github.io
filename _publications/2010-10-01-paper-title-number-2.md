@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 2"
+title: "Garbled Circuits With Sublinear Evaluator"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: '
+A recent line of work, Stacked Garbled Circuit (SGC), showed that Garbled Circuit (GC) can be improved for functions that include exclusive conditional behavior.
+SGC relieves the communication bottleneck of 2PC by only sending enough garbled material for a single branch out of the $b$ total branches.  
+Hence, communication is sublinear in the total circuit size.
+However, both the evaluator and the generator 
+must pay in computation and perform at least factor   $\log b$ {\em extra} work as compared to standard GC evaluation. '
+date: 2022-05-30
+venue: 'Eurocrypt'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Abida Haque, David Heath, Vladimir Kolesnikov, Rafail Ostrovsky, Akash Shah. Garbled Circuits With Sublinear Evaluator, Eurocrypt 2022.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Sublinear garbled circuits with an application to PIR.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](to be updated)
