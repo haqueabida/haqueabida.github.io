@@ -1,7 +1,7 @@
 ---
 title: "Cryptography"
 collection: teaching
-type: "Workshop"
+type: "Class"
 permalink: /teaching/2019-fall-teaching-1
 venue: "NC State, CSC"
 date: 2019-08-15
