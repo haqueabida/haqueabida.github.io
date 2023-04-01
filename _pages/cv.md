@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+[The Actual CV](http://haqueabida.github.io/files/Abida_Resume.pdf)
+[Teaching Statement](http://haqueabida.github.io/files/Teaching_Statement_Abida.pdf)
+
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
