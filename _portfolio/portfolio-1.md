@@ -1,6 +1,7 @@
 ---
 title: "Verifiable Random Functions Explainer"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This is an explainer of what a verifiable random function (VRF). It will also discuss unique signatures, as that is a related concept.
+ <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
